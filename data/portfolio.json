@@ -1,0 +1,211 @@
+{
+  "profile": {
+    "name": "Manikandan",
+    "role": "Full Stack Developer",
+    "email": "manikandanpandiyan1808@gmail.com",
+    "github": "https://github.com/",
+    "linkedin": "https://www.linkedin.com/in/manikandan-p-787267227",
+    "location": "India",
+    "availability": "Open to opportunities",
+    "resume": "",
+    "heroLead": "I design and build modern, responsive web applications with clean code, thoughtful details, and a focus on real-world impact."
+  },
+  "stats": [
+    {
+      "value": "03",
+      "label": "Projects built"
+    },
+    {
+      "value": "15+",
+      "label": "Technologies"
+    },
+    {
+      "value": "100%",
+      "label": "Curiosity"
+    }
+  ],
+  "marqueeItems": [
+    "React.js",
+    "Next.js",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "PostgreSQL",
+    "MySQL",
+    "Tailwind CSS",
+    "REST APIs",
+    "GitHub",
+    "Neon"
+  ],
+  "about": {
+    "lead": "I'm Manikandan, a full stack developer who enjoys turning ideas into fast, accessible, and genuinely useful products.",
+    "body": "My focus is React.js, Next.js, JavaScript, REST APIs, and database integration. I like working across the whole stack — from shaping the interface to designing the data behind it.",
+    "highlights": [
+      "Comfortable across frontend and backend",
+      "Focused on clean, maintainable code",
+      "Always learning and shipping"
+    ],
+    "currently": {
+      "title": "Building full stack projects",
+      "description": "Exploring Next.js, PostgreSQL, and better ways to ship polished products end to end.",
+      "pills": [
+        "Next.js",
+        "PostgreSQL",
+        "TypeScript"
+      ]
+    },
+    "learning": {
+      "title": "Always levelling up",
+      "description": "New tools, better patterns, cleaner architecture."
+    }
+  },
+  "skills": [
+    {
+      "title": "Frontend",
+      "icon": "layout",
+      "description": "Interfaces that feel fast, responsive, and intentional.",
+      "items": [
+        "React.js",
+        "Next.js",
+        "JavaScript",
+        "TypeScript",
+        "HTML5",
+        "CSS3",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "title": "Backend",
+      "icon": "server",
+      "description": "APIs and server logic that keep products running smoothly.",
+      "items": [
+        "Node.js",
+        "Next.js API Routes",
+        "REST APIs"
+      ]
+    },
+    {
+      "title": "Database",
+      "icon": "database",
+      "description": "Structured data and reliable persistence for real products.",
+      "items": [
+        "PostgreSQL",
+        "MySQL",
+        "Neon"
+      ]
+    },
+    {
+      "title": "Tools & workflow",
+      "icon": "wrench",
+      "description": "The habits and tooling that keep shipping simple.",
+      "items": [
+        "Git",
+        "GitHub",
+        "VS Code",
+        "Postman"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "title": "Turf Management System",
+      "type": "Full Stack Web Application",
+      "description": "A web application for managing turf bookings, displaying available slots, tracking partner expenses, and reviewing profit reports in one place.",
+      "highlights": [
+        "Slot booking",
+        "Partner expenses",
+        "Profit reports"
+      ],
+      "tech": [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Neon PostgreSQL"
+      ],
+      "github": "https://github.com/",
+      "demo": "",
+      "accent": "violet",
+      "domain": "turf-manager.app"
+    },
+    {
+      "number": "02",
+      "title": "Finance Management App",
+      "type": "Web Application",
+      "description": "A finance management concept for organizing income, expenses, and financial summaries with a clear, distraction-free dashboard.",
+      "highlights": [
+        "Income tracking",
+        "Expense insights",
+        "Monthly summaries"
+      ],
+      "tech": [
+        "React.js",
+        "Node.js",
+        "REST API",
+        "PostgreSQL"
+      ],
+      "github": "https://github.com/",
+      "demo": "",
+      "accent": "cyan",
+      "domain": "finance-dashboard.app"
+    },
+    {
+      "number": "03",
+      "title": "Personal Portfolio",
+      "type": "Frontend Project",
+      "description": "A responsive portfolio showcasing my skills, projects, background, and contact details — designed and built from scratch.",
+      "highlights": [
+        "Responsive design",
+        "Motion system",
+        "Accessible UI"
+      ],
+      "tech": [
+        "React.js",
+        "Framer Motion",
+        "CSS"
+      ],
+      "github": "https://github.com/",
+      "demo": "",
+      "accent": "amber",
+      "domain": "manikandan.dev"
+    }
+  ],
+  "experience": [
+    {
+      "date": "Feb 2025",
+      "meta": "2-week internship",
+      "title": "Technology Intern",
+      "org": "R2C Technologies",
+      "description": "Gained hands-on exposure to electronic components, operations, and real-time project environments while building practical, professional skills.",
+      "tags": [
+        "Electronics",
+        "Operations",
+        "Teamwork"
+      ]
+    },
+    {
+      "date": "Ongoing",
+      "meta": "Self-directed",
+      "title": "Full Stack Development",
+      "org": "Personal projects",
+      "description": "Designing and building full stack applications with React, Next.js, and PostgreSQL — from the first wireframe to the final deployment.",
+      "tags": [
+        "React",
+        "Next.js",
+        "PostgreSQL"
+      ]
+    },
+    {
+      "date": "Education",
+      "meta": "Academic background",
+      "title": "Computer Science Student",
+      "org": "Continuous learning",
+      "description": "Building a strong foundation in software development through coursework, self-study, and hands-on projects.",
+      "tags": [
+        "Data structures",
+        "DBMS",
+        "Web development"
+      ]
+    }
+  ]
+}
