@@ -3,7 +3,7 @@
     "name": "Manikandan",
     "role": "Full Stack Developer",
     "email": "manikandanpandiyan1808@gmail.com",
-    "github": "https://github.com/",
+    "github": "https://github.com/manikandanpandiyan1808-tech",
     "linkedin": "https://www.linkedin.com/in/manikandan-p-787267227",
     "location": "India",
     "availability": "Open to opportunities",
@@ -123,7 +123,7 @@
         "Tailwind CSS",
         "Neon PostgreSQL"
       ],
-      "github": "https://github.com/",
+      "github": "",
       "demo": "",
       "accent": "violet",
       "domain": "turf-manager.app"
@@ -164,8 +164,8 @@
         "Framer Motion",
         "CSS"
       ],
-      "github": "https://github.com/",
-      "demo": "",
+      "github": "https://github.com/manikandanpandiyan1808-tech/Portfolio",
+      "demo": "https://portfolio-eight-nu-npekif4xcd.vercel.app/",
       "accent": "amber",
       "domain": "manikandan.dev"
     }
