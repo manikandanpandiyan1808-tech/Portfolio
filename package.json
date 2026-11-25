@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^5.0.4",
-    "concurrently": "^10.0.6",
+    "concurrently": "^10.0.7",
     "vite": "^7.1.7"
   }
 }
